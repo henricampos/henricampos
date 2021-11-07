@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 🔭 Currently working with React Native and Node
 <br>
 🌱 Currently learning Javascript, Typescript, Ionic and Angular
-<br>
-📫 How to reach me: @henrindex
+
 
